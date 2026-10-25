@@ -1,0 +1,21 @@
+# Build outputs
+*.o
+/ServerTrd
+/trader
+/analyst
+/ticker
+/ServerTrd.exe
+/trader.exe
+/analyst.exe
+/ticker.exe
+
+# Local runtime data
+*.log
+/stocks.txt
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Private assignment material and local source backups
+/230104004058.pdf
+/.local-backup-20261025/
